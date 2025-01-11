@@ -1,0 +1,26 @@
+# .NET Core and Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Rider
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet
+*.nupkg
