@@ -1,16 +1,17 @@
 # AppLogger
 
-AppLogger is a simple .NET class library providing a `Logger` class with basic logging functionality. It also integrates the `Humanizer` library for enhanced string manipulation.
+AppLogger on yksinkertainen .NET-luokkakirjasto, joka tarjoaa `Logger`-luokan perustoiminnalliseen lokitukseen. Se integroi myös `Humanizer`-kirjaston, joka mahdollistaa parannetun merkkijonojen käsittelyn.
 
-## Features
-- Basic logging via `Logger.Log(string text)`
-- Humanized string output using the Humanizer library
+## Ominaisuudet
+- Peruslokitus `Logger.Log(string text)` -metodin avulla
+- Humanisoidut merkkijonotulosteet `Humanizer`-kirjaston avulla
 
-## Requirements
-- .NET 6.0 or higher
-- NuGet package: [Humanizer](https://www.nuget.org/packages/Humanizer)
+## Vaatimukset
+- .NET 6.0 tai uudempi
+- NuGet-paketti: [Humanizer](https://www.nuget.org/packages/Humanizer)
 
-## Installation
-1. Clone this repository:
+## Asennus
+1. Kloonaa tämä repository:
    ```bash
-   git clone https://github.com/<your-username>/AppLogger.git
+   git clone https://github.com/<Mlein95>/AppLogger.git
+
